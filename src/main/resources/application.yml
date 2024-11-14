@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: mjproj
+  profiles:
+    active: local
+
+server:
+  port: 8081
