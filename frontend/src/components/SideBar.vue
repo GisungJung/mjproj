@@ -10,7 +10,7 @@
     >
       <div class="side-bar">
         <div class="title-area">
-          <BInput placeholder="맛집 이름을 입력해주세요."/>
+          <BFormInput placeholder="맛집 이름을 입력해주세요."/>
         </div>
         <div class="image-area">
           <div class="iw-file-input">
@@ -18,7 +18,7 @@
           </div>
         </div>
         <div class="location-info-area">
-          <BInput placeholder="위치 정보 직접 입력하기"/>
+          <BFormInput placeholder="위치 정보 직접 입력하기"/>
         </div>
         <div class="rate-area">
           <BFormRating />
